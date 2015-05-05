@@ -11,9 +11,9 @@ A project worked on for Makers Academy Makerthon. Our task was to create a mobil
 
 # The Team
 
-* Phil Brockwell (Thats me) [Profile](https://github.com/robertpulson)
-* Louise Beh: [Profile](https://github.com/louisebeh)
 * Costas Sarris: [Profile](https://github.com/costassarris)
+* Phil Brockwell: [Profile](https://github.com/robertpulson)
+* Louise Beh: [Profile](https://github.com/louisebeh)
 * Joe Newman: [Profile](https://github.com/jjnewman)
 
 Between us we delivered a product that contained all the key functionality. We built the app using HTML/CSS and Jquery/Angular.
