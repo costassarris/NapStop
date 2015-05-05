@@ -1,4 +1,4 @@
-# napstop
+# NapStop
 
 A project worked on for Makers Academy Makerthon. Our task was to create a mobile app that could be initialised with a destination and would alert a user once they reached a certain proximity of that destination.
 
